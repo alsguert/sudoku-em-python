@@ -311,4 +311,6 @@ while True:
     else:
         click_last_status = False
 
-    pg.display.update()        
+    pg.display.update() 
+
+# eswdsdfgsdgr       
